@@ -8,7 +8,6 @@ Bu proje, bir problemin çözümünü (yol bulma) ve bir dünyanın yaratılış
 
 
 ![Görsel](gorsel.png)
-
 ## Süreç
 
 1.  **Yaratılış (Creation):** Program, `Recursive Backtracking` algoritmasını kullanarak boş bir alandan rastgele bir labirent "oyar".
